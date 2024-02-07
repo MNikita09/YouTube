@@ -1,0 +1,114 @@
+.header{
+	height:80px;
+	display:flex;
+}
+.menu{
+	height:18px;
+	width:22px;
+	margin-top: 5px;
+}
+.ikon1{
+	height:25px;
+	width:110px;
+}
+.search{
+	height:37px;
+	width:650px;
+	border-radius: 15px;
+	border-color:grey;
+}
+.search2{
+	height:25px;
+	width:25px;
+	margin-top:13px;
+}
+.header-box{
+	height:33px;
+	width:33px;
+	margin-top:15px;
+}
+.box{
+	height:1010px;
+	display:flex;
+}
+.box1{
+	background-color:#fff8dc;
+	height: 1010px;
+	width:180px;
+}
+.box2{ 
+	height:1037px;
+	width:1710px;
+}
+.left{
+	height:50px;
+	width:150px;
+}
+.img{
+	height:32px;
+	width:28px;
+}
+.img5{
+	height:35px;
+	width:35px;
+}
+.h1{
+	color:#152935;
+	margin-left:5px;
+	font-size: 14px;
+}
+.h2{
+	color:black;
+}
+.imgbox21{
+	height:33px;
+	width:33px;
+	margin-top: 5px;
+}
+.video{
+	 width:1710px;
+	 height:990px;
+}
+.parts{
+	height: 323px;
+	display:flex;
+	width:1710px;
+	gap:5px;
+}
+.inpart{
+	height: 323px;
+	width:336px;
+}
+.video-part{
+height:200px;
+width:336px;
+border-radius: 18px;
+}
+.text{
+height:61.5px;
+width:336px;
+}
+.chanal{
+	height: 61.5px;
+	width:61.5px;
+}
+.zag{
+	height: 61.5px;
+	width:274.5px;
+}
+.zagl{
+	color:black;
+	margin-left: 5px;
+}
+.ikon{
+	height:40px;
+	width:40px;
+	margin-top:5px;
+	border-radius: 50px;
+}
+.p{
+	margin-left: 65px; 
+	margin-top:-15px;
+	color:grey;
+	font-size:14.5px;
+}
